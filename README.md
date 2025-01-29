@@ -14,7 +14,7 @@ This package is designed to support OS development and includes:
 ## Getting Started
 Follow these steps for to setup your environment for the lab assignment:
 The first thing you need to do is to g into `devcontainer.json` and uncomment the section that belongs to your machine. We have tested Arch Linux on X11, Windows 11 with WSL2, and MacOS M1 (Arm).
-
+i
 ### MacOS Installation Steps
 
 1. **Install Homebrew:**
